@@ -26,11 +26,7 @@ back1=loadImage("background.jfif")
   kidda1=loadImage("ball1.png")
   win1=loadImage("WIN.png")
   key2=loadImage("mario game.png")
-  run=loadSound("run.mp3")
-  jump=loadSound("jump.wav")
-  point=loadSound("Catch.wav")
-   lose=loadSound("Lose.wav")
-   win=loadSound("Win.mp3")
+  
 }
 
 
